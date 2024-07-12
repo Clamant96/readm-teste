@@ -1,4 +1,19 @@
 
+# Comida, Amor & Vida: AlimentAção Solidária 🤝 #
+![AlimentacaoSolidaria](https://lh3.googleusercontent.com/pw/AP1GczPafOzcblDzrOhcQHMoTQgvtisKUaxdo_Ewl7Y58uDaJl53ffKxkVZNblEsM_D8-jGGJYUxEz3JNeYoEbNjTbE9RPxbdGrgeuD7DI4oeO10eDa_mj-DE-MlIG59VjzjiNiKYq5zDTMdB_T34escW94=w607-h607-s-no-gm?authuser=0)
+
+## ÍNDICE
+
+- <a href="#visaogeral">Visão Geral</a>
+- <a href="#objetivo">Objetivo</a>
+- <a href="#comofunciona">Como Funciona</a>
+- <a href="#roraima">Por que Roraima?</a>
+- <a href="#transparencia">Transparência e Prestação de contas</a>
+- <a href="#comoajudar">Como você pode ajudar</a>
+- <a href="#nossaequipe">Conheça a nossa equipe</a>
+## Deploy
+[Link do deploy](https://main--alimentacao-solidaria.netlify.app/)
+
 ## AlimentAção Solidária: Comida, Amor & Vida🤝 ##
 
 ![AlimentacaoSolidaria](https://lh3.googleusercontent.com/pw/AP1GczPafOzcblDzrOhcQHMoTQgvtisKUaxdo_Ewl7Y58uDaJl53ffKxkVZNblEsM_D8-jGGJYUxEz3JNeYoEbNjTbE9RPxbdGrgeuD7DI4oeO10eDa_mj-DE-MlIG59VjzjiNiKYq5zDTMdB_T34escW94=w607-h607-s-no-gm?authuser=0)
